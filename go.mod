@@ -1,4 +1,4 @@
-module wrap
+module github.com/nobishino/errwrap
 
 go 1.18
 

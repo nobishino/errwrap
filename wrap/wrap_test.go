@@ -3,8 +3,8 @@ package wrap_test
 import (
 	"testing"
 
-	"wrap"
 	"github.com/gostaticanalysis/testutil"
+	"github.com/nobishino/errwrap/wrap"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 
